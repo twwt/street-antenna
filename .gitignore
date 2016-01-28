@@ -1,0 +1,7 @@
+/cache
+/project
+/target
+/src/main/proxy.rb
+logs/
+*.iml
+/.editorconfig
