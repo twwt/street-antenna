@@ -24,4 +24,3 @@ trait Site {
 
   implicit protected def stringToNode(string: String): StringToNode = new StringToNode(string)
 }
-

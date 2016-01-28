@@ -13,3 +13,4 @@ object FashionSnapCrawl extends Scrap {
   val cache = "./cache"
   val threads = 1
 }
+
